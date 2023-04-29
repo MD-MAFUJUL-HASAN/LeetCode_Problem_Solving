@@ -1,9 +1,26 @@
-![image](https://user-images.githubusercontent.com/128472454/227771167-0df11147-a138-4af0-93ee-6aa4146b470b.jpg)
-
-<div Align="center"><h1> <a href="https://github.com/MD-MAFUJUL-HASAN/LeetCode_Problem_Solving"> Leet Code Problem Solving </a></h1></div>
+<div align="center">
   
-**These Contain Some Programming Solution of Leet Code website Program that I have done while understanding Programming Concepts.**
+  ### LeetCode_Problem_Solving
+</div>
 
-**The detailed Description of each project along with the meta projects listed in this repository can be found at github page :-**
-
-**_[https://github.com/MD-MAFUJUL-HASAN/LeetCode_Problem_Solving/](https://github.com/MD-MAFUJUL-HASAN/LeetCode_Problem_Solving)_ **
+<p align="center">
+&emsp;
+  <img src="https://img.shields.io/github/languages/code-size/MD-MAFUJUL-HASAN/LeetCode_Problem_Solving?style=for-the-badge">
+  &emsp;
+  <img src="https://img.shields.io/github/repo-size/MD-MAFUJUL-HASAN/LeetCode_Problem_Solving?color=purple&style=for-the-badge">
+  &emsp;
+  <img src="https://img.shields.io/github/languages/count/MD-MAFUJUL-HASAN/LeetCode_Problem_Solving?color=green&style=for-the-badge">
+  &emsp;
+  <img src="https://img.shields.io/github/languages/top/MD-MAFUJUL-HASAN/LeetCode_Problem_Solving?color=orange&style=for-the-badge">
+  &emsp;
+  <img src="https://img.shields.io/github/commit-activity/m/MD-MAFUJUL-HASAN/LeetCode_Problem_Solving?color=lime&style=for-the-badge">
+  &emsp;
+  <img src="https://img.shields.io/github/last-commit/MD-MAFUJUL-HASAN/LeetCode_Problem_Solving?color=darkgreen&style=for-the-badge">
+  &emsp;
+  <img src="https://tokei.rs/b1/github/MD-MAFUJUL-HASAN/LeetCode_Problem_Solving?category=code" width="200">
+  &emsp;
+  <img src="https://tokei.rs/b1/github/MD-MAFUJUL-HASAN/LeetCode_Problem_Solving?category=lines" width="175">
+  &emsp;
+  <img src="https://tokei.rs/b1/github/MD-MAFUJUL-HASAN/LeetCode_Problem_Solving?category=files" width="100">
+  &emsp;
+  </p>
